@@ -75,8 +75,33 @@
     - C. 名词性从句的功能: 名词性从句有句子或问句变化而成，和动名词短语/不定式短语一样，名词性从句也要被视为名。由于具有名词的特性，故可作 主语，宾语或在 be 动词之后作表语。
         + (1). 名词性从句作主语。
         + (2). 名词性从句作及物动词的宾语。
-        + (3). 名词性从句作介词的宾语。
-        + (4). 
+        + (3). 名词性从句作介词(prep)的宾语。
+            - a). 仅能用 whether 从句或疑问词 ( when, what, how, where, why ) 引导的名词性从句作宾语。that 从句不可作介词的宾语。
+                + I am worried about(prep) whether he can do it.
+                + I am curious about(prep) how he'll cope (/kəʊp/ vi 应付、对付) with the problem.
+            - b). 如果遇到介词，且非要用 that 从句时，补救方法:
+                + (a). 介词 + the fact + that 从句: 如此，就可用 the fact 作介词的宾语，而 that 从句就成了 the fact 的同位语。
+                    - I am sure of the fact that the team has won the game.
+                    - I am worried about the fact that he doesn't study
+                + (b). 保留介词，不加 the fact, 但介词之后的 that 从句要做下列变化:
+                    - 第一步: 除去 that
+                    - 第二步: that 后的主语变成所有格
+                        + 例如：I am worried about that he plays around all day. --> I am worried about his playing around all day
+                    - {注解:} 
+                        + <1>. that 从句若有助动词 do, does, did 时， 予以去掉即可。
+                            - 例如: I am worried about that he doesn't study. --> I am worried about his not studying.
+                        + <2>. that 从句若有助动词 will 或 would 时， 予以去掉即可。
+                            - 例如: I am sure of that the team will win the game. --> I am sure [of the team's winning (prep)] the game. 我确信这一队会赢得这场比赛。
+                        + <3>. 从句若有以下助动词时，做下列变化:
+                            - may --> be likely to.   can --> be able to  再将 be 动词变成动名词 being.
+                                + 例如: I am happy about that he is likely to come. --> I am happy about his being likely to come. 我很高兴他可能回来。
+                                + 例如: I am sure of that he is able to do it. --> I am sure of his being able to do it. 我确定他能做这件事。
+                - (c). be + ajd. + that 从句: 也就是去掉介词，将 that 从句放在形容词后面，作其宾语。
+                    + I am worried [that he plays around all day  宾语从句].
+                    + {注解: } 有时介词之后亦可直接接 that 从句， 而不需要 the fact, 形成惯用语。
+                        - in that = because         因为
+                        - except that               只可惜； 除了...
+                        - notwithstanding that      尽管
         
 5. **名词短语作主语: 名词短语是由""疑问词 + 不定式短语" 形成。**
     - A. 疑问副词
