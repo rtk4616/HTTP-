@@ -9,11 +9,61 @@
 
 ### 第一节 可作主语的词类
 1. 名词作主语
-2. 代词
-3. 动名词或不定式短语
-4. 名词性从句。(句子绝对不能当主语，一定要变成名词性从句方可作主语)
-5. 名词短语作主语
-6. 表距离的地方副词短语作主语。
+    + [The child] is apt to tell lies.
+2. 代词***
+    + [He] always keeps his promise.
+3. 动名词短语或不定式短语*** [动词绝不可直接当主语，一定要变成动名词短语或不定式短语，如此才可视为名词的对等语， 作主语用]
+    + a. 动名词短语作作主语。(动名词短语作主语通常表示: 已知的事实或曾经做过的经验。)
+        - [Seeing him] makes me angry. 
+        - [Collecting stamps] is one of his hobbies. {注: 由'爱好'得知，此处的'集邮'应该是一种经验. Collecting stamps 为"动名词短语"}
+        - [Listening to music] makes me happy.
+    + b. 不定式作短语作主语。(不定义短语作主语通常表示: 一种意愿、目的或未完成的事。)
+        - [To study abroad] is my greatest desire. 出国读书是我最大的愿望。
+        - [To go to Japan for a visit] is my plan for this year.
+    + c. 用 It 代替动名词短语和不定时短语作形式主语。(更常用)
+        - (1.) {注解:} 不定义或动名词短语作主语时，往往会形成主语过长的现象，故通常用代词 it 作主语，置于句首，将真正的主语移至句尾。**动名词短语移至句尾时，通常改为不定式短语**
+            + [It] is one of his hobbies to collect stamps.
+            + [It] is my greatest desire to study abroad.
+            + [It] makes my happy to listen to music.
+        - (2.) 有时也可见到 it 代替的动名词短语移至句尾时仍保留动名词形态不变，但此种用法并不普遍，初学者尽量避免。
+            + It is interesting to learn English. (佳) 学英文很有趣
+            + It is interesting learning English. (可)
+        - (3.) 下列举行属于例外情形，it 要代替动名词短语，不可用不定式短语。
+            + It is [no use] + 动名词短语
+                - It is no use crying over spilt milk. 覆水难收
+                - It is no use asking him for help.
+            + It is useless + 不定式短语
+            + It is of no use + 不定式短语
+            + There is no [use / sense / point ]  + in + 动名词短语
+                - It is useless to cry over split milk.
+                - It is of no use to cry over split milk.
+                - There is no use in crying over split milk.
+               
+4. 名词性从句*** 
+    - (1).[句子绝对不能当主语，一定要变成名词性从句方可作主语]
+        + [That he doesn't study]{名词性从句} makes my angry.
+    - (2). 名词性从句的种类 --> 名词性从句一共有3中: <br/>
+          {注: 名词性从句包括: 宾语从句、主语从句、表语从句、同位语从句。}
+          
+        + 1). that 从句: 任何一个主语起首的句子前面冠以 that, 即成 that 从句。
+            - He doesn't believe my words. --> that he doesn't believe my words.(名词性从句)
+            
+        + 2). whether 从句: 本从句由可用 yes / no 回答的问句变化而来，这种可用 yes / no 回答的问句称为一般疑问句。
+            - a. 问句有 be 动词时: 主语与 be 动词还原，前面冠以 whether.
+                + Is he happy? --> whether he is happy.
+            - b. 问句有一般助动词 (can、will、may、should、ought to、 must、have) 时: 主语与助动词还原，前面冠以 whether。
+                + Can he do it? --> whether he can do it.
+            - c. 问句有 do、does、did 等助动词时: 主语与助动词还原，再将 do、does、did 去掉，后面的动词依人称和失态变化。
+                + Did he come? --> whether he came.
+                + Does he like it? --> whether he likes it.
+                
+        + 3). 疑问词从句: 本从句是由疑问词 (when、what、how、where、why) 等引导的问句变化而成，这种由疑问词引导的问句称为特殊疑问句。
+            - a. 问句有 be 动词时: 主语与 be 动词还原，前面保留疑问词。
+            - b. 问句有一般助动词时: 主语与助动词还原，前面保留疑问词。
+            - c. 问句有 do、does、did 等助动词时: 主语与助动词还原，前面保留疑问词，再将 do、does、did去掉，动词依人称和时态变化。
+
+5. 名词短语作主语***
+6. 表距离的地方副词短语作主语***
 
 
 ### 第二节 动词的种类及其用法
