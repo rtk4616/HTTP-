@@ -132,10 +132,54 @@
     + (5) 授予动词          (dative verb,             [简写: d.v.])
     
 2.  **如何判断完全不及物动词**
+    + 我______他。（主动）
+    + 他被我______。（被动）
+    + 在上列的空格中，我们可以任意放人一个英文动词，翻成中文后，意思若无毛病，就是及物动词，否则就是不及物动词。
+        - 例如：kill 杀
+            + 我 kill 他
+            + 他被我 kil !
+            + 由此得知 “我杀了他。” 、 “他被我杀了。”，语意无毛病，即可得知 kill 为及物动词。
+        - 例如：do做
+            + 约翰 do（做）事情。
+            + 事情被约翰 do（做）。
+            + 根据上述 do 是及物动词。
+    + 列举一些及物动词和不及物动词
+        - 及物动词：
+            + kill 杀
+            + enjoy 喜欢
+            + do 做
+            + love 爱
+            + make 制造
+            + hate 恨
+            + produce 生产
+            + notice 注意
+        - 不及物动词：
+            + dance 跳舞 
+            + study 读书
+            + happen 发生
+            + live 生活
+            + run 跑步
+            + sing 唱歌
 
 3.  **兼作及物与不及物动词之常用动词**
+    + sing      vt. 唱(一首歌)      vi. 唱歌
+    + run       vt. 经营(工厂)      vi. 跑步
+    + study     vt. 研究(问题)      vi. 读书
+    + kill      vt. 杀(某人)        vi. 杀戮
 
-4.  **不及物动词可做及物动词，用同系名词作其宾语**
+4.  **不及物动词可做及物动词，用同系名词作其宾语: 有些不及物动词可变成及物动词，以同系名词作其宾语。**
+    + dream vi．做梦   vt．做（梦）
+        - dream a terrible dream（做一个可怕的梦）  
+    + live  vi．生活   vt．过（生活）
+        - live a happy life     （过着快乐的生活）   
+    + smile  vi．微笑   vt．露出（微笑）
+        - smile a bright smile  （露出开朗的微笑）
+    + laugh  vi．笑     vt．展开（大笑）
+        - laugh a hearty laugh   （开怀大笑）
+    + sigh   vi．叹气   vt．叹（气）
+        - sigh a deep sigh      （深深地叹一口气）
+    + sleep  vi．睡眠   vt．睡（觉）
+      - sleep a sound sleep（睡了安稳的一觉）
 
 5.  **完全及物动词与完全不及物动词**
     + a. 完全及物动词: 即加了宾语后，意思才很完全的动词。
@@ -145,29 +189,102 @@
         
 6.  **完全及物动词出现的形态**
     + a. 主语 + 及物动词 + 宾语
+        - He wrote(vt) a book.
     + b. 主语 + be 动词 + 及物动词的现在分词 + 宾语
-    + c. 主语 + be 动词 + 过去分词 (past participle. 简写 p.p.)。 本句型表示被动的概念
-    + d. 主语 + be 动词 + being + 过去分词。 本句型表示某动作正在进行的被动状态。
+        - He was writing a book(o).
+    + c. 主语 + be 动词 + 过去分词 (past participle. 简称 p.p.): 本句型用以表示被动的概念
+        - The book was(be动词)  written(p.p.) by him.  这本书是他写的。
+    + d. 主语 + be 动词 + being + 过去分词
+        - A book(S) was being(现在分词) written(p.p.) by him. 有一本书正在被他撰写中。 
     
 7.  **完全不及物动词出现的形态**
      + a. 主语 + 不及物动词     
          - --> Something(S) happened(vi). 有事情发生了。 
-     + b. 主语 + be 动词 + 不及物动词的现在分词 (本句型用于表示某动作正在进行的状态)    
+     + b. 主语 + be 动词 + 不及物动词的现在分词:  本句型用于表示某动作正在进行的状态   
          - Something(S) was (be动词) happening (现在分词). 有些事情正在发生。
          - **happened 是不及物动词，故无被动语态**
+            + Something was happened (X) * happened 是不及物动词，无被动语态。
          - 注意1: 完全不及物动词，就是意思很完全的不及物动词。这个动词置于主语之后，可单独存在，之后不须加任何此类意思就很完全。
+            + Something happened.
+            + He died.
          - 注意2: 但完全不及物动词之后，可接副词(adverb [简写 adv.]) 或副词对等于 (如介词短语，状语从句等)，以修饰该动词。
-    
-8.  **不完全不及物动词: 这类动词(简写 i.vi. 即连系动词)意思不完全、因而无法单独存在、之后要接名词、形容词或名词对等语
-        (如代词、动名词、不定式、名词性从句、名词短语等)，以补充其意思的不足。我们称表语(subjective complement 简称 s.c.)**
-
+            + Something happened(vi) yesterday(adv).
+            + He died [in an accident (介词短语)].
+            + He left [because he did not want to see Mary again (状语从句)]
+         
+8.  **不完全不及物动词(系动词): 这类动词(简写 i.vi. 即连系动词)意思不完全、因而无法单独存在、之后要接名词、
+        形容词或名词对等语(如代词、动名词、不定式、名词性从句、名词短语等)，以补充其意思的不足。
+        我们称表语(subjective complement 简称 s.c.)**
+    + He(S) looks(i.vi.) happy(adj).
+    + He(S) became(i.vi.) [a good student(n)].
+    + [My trouble(S)] is(i.vi.) [that I have no money(名词性从句)].
+      
+      
 9.  **不完全不及物动词的判断方法**
+    + 我______他。（主动）
+    + 他被我______。（被动）
+    + a. 先将become（变成）置于上列两空格中得知 (兹以 become 作示范)
+        - 我变成他。
+        - 他被我变成。
+        - 第一句语意尚可，也合乎中文语法，但第二句就不合语意也不合乎中文语法，故得知become是不及物动词。
+    + b. 确知become为不及物动词后，即可利用完全不及物动词的造句法形成下列句型：
+        + (主语)S + vi.
+        + S + be 动词 + vi.的现在分词
+            - He became. (他变成。)
+            - He was becoming. (他正变成。)
+    + c. 但由中文的翻译得知：“他变成。” 或 “他正变成。” 这两句的语意均不完全，故知became是意思不完全的不及物动词，
+    不能单独存在，之后要接补充语如此句意才完全，故下列两句的 became 之后有补充语，句意完全，属正确的句子。
+        + He became happy(s.c.).
+        + He became [a good body(s.c)].
+           
 
 10. **不完全不及物动词的种类及其表语的用法**
     - a. be 动词 : be动词之后可用名词（含名词对等语如名词性从句、名词短语、动名词、不定式等）或形容词（含作形容词的现在分词、过去分词、介词短语、地方副词或地方副词短语等）作表语
         + be 动词之后有 11 种表语
-            - 
-    - b. 
+            - 1). 名词
+                + He is a great hear.
+            - 2). 名词性从句
+                + The trouble with me is that I lack money.
+                + The problem is whether he can join us. 问题是他是否能加入我们。
+            - 3). 名词短语: 名词短语是由 "疑问词 + 不定式短语" 形成。
+                + The question is when to set out. 
+            - 4). 作名词用的动名词短语
+                + My hobby is collecting stamps.
+            - 5). 作名词用的不定式短语
+                + My purpose here is to see him.
+            - 6). 形容词
+                + She is beautiful.
+            - 7). 作形容词用的现在分词
+                + {注解: **P168 分词一共只有两种：现在分词及过去分词。现在分词原则上由原形动词加一ing形成，
+                    而过去分词多半为原形动词加一d或一ed形成但也有数百个不规则动词，它们由原形变过去分词是不规则的**}
+                + The story is interesting.
+            - 8). 作形容词用的过去分词
+                + I am interested in the story.
+            - 9). 作形容词用的介词短语: 此类介词短语由 "of + 抽象名词" 形成。
+                + The book is of great value. 这本书很有价值。 == The book is valuable.
+                + The machine is of no use. 这机器毫无用处。 == The machine is useless.
+            - 10). 地方副词
+                + She is there.
+                + They are upstairs.
+                + Is he home now?
+            - 11). 地方副词短语 : 本短语由 "介词 + 地方名词" 形成。
+                + She is in town.
+                + They are at home now.
+                + She is in danger.
+            - {注意: a).} be 动词之后的现在分词有 2 种词性:
+                + α. 作形容词 (adj): 表"进行状态"的现在分词，译成 "......的"
+                    - The girl is charming(迷人的). 现在分词作形容词当表语。
+                    - His job is washing cars. 它的工作时洗车的。
+                + β. 作动词进行时的现在分词 (V-ing): 译成" 正在......"
+                    - The girl is singing(完全不及物动词的进行时).
+                    - The girl is bathing.
+                    - He is washing(现在分词) the car. 他正在洗车。
+            - {注意: b).} be 动词之后的过去分词(p.p.)也有 2 个词性:
+                + α. 作形容词 (adj): 译成 "感到.......的"
+                    - The man is tired(过去分词作adj当表语). 这人很累。
+                + β. 作及物动词的被动语态: 译成 "被......"而不视为形容词
+                    - The man was [killed (为完全及物动词的被动语态)]. 这个男人被杀了。 
+    - b.    
     - c.
     - d.
     - e.
@@ -192,3 +309,23 @@
 19. **表 "提供" 的授予动词**
 
 20. **其他补充要点**
+
+
+
+#### b．感叹句: 感叹句的形成，均由How或What引导。句型如下： (P56)
+ - What + n．十主语＋动词⋯ ⋯！ --> 例句: What a great man he is ! 他是个多伟大的人呀！)
+    + 第一步：先置What于句首，即成：
+    + 第二步：再将含有名词作及物动词的宾语、表语或作补语的句子置于其后
+    + 第三步：将此宾语、表语或补语置于What之后，句尾再置感叹号即成。
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
