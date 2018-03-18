@@ -73,9 +73,12 @@
                     - What happened last night? --> what happened last night. (名词性从句)
                     - Which was bought? 哪个被买走？ --> which was bought. (名词性从句)
                               
-    - C. 名词性从句的功能: 名词性从句有句子或问句变化而成，和动名词短语/不定式短语一样，名词性从句也要被视为名。由于具有名词的特性，故可作 主语，宾语或在 be 动词之后作表语。
+    - C. 名词(Object)性从句的功能: 名词性从句有句子或问句变化而成，和动名词短语/不定式短语一样，名词性从句也要被视为名词。由于具有名词的特性，故可作 主语，宾语或在 be 动词之后作表语。
         + (1). 名词性从句作主语。
+            - [That honest is the best policy] is a proverb (which) we should always keep in mind. “誠實為上策” 是一句我們應該時刻謹記在心得箴言。
+            - [Whether he can do it] remains to be seen. 他能勝任與否還有待觀察。
         + (2). 名词性从句作及物动词的宾语。
+            - I know [that he will go abroad in the near future].
         + (3). 名词性从句作介词(prep)的宾语。
             - a). 仅能用 whether 从句或疑问词 ( when, what, how, where, why ) 引导的名词性从句作宾语。that 从句不可作介词的宾语。
                 + I am worried about(prep) whether he can do it.
@@ -243,7 +246,7 @@
     - a. be 动词 : be动词之后可用名词（含名词对等语如名词性从句、名词短语、动名词、不定式等）或形容词（含作形容词的现在分词、过去分词、介词短语、地方副词或地方副词短语等）作表语
         + be 动词之后有 11 种表语
             - 1). 名词
-                + He is a great hear.
+                + He is a great hero.
             - 2). 名词性从句
                 + The trouble with me is that I lack money.
                 + The problem is whether he can join us. 问题是他是否能加入我们。
@@ -273,10 +276,10 @@
                 + They are at home now.
                 + She is in danger.
             - {注意: a).} be 动词之后的现在分词有 2 种词性:
-                + α. 作形容词 (adj): 表"进行状态"的现在分词，译成 "......的"
+                + α. 作形容词 (adj):                表"进行状态"的现在分词，译成 "......的"
                     - The girl is charming(迷人的). 现在分词作形容词当表语。
-                    - His job is washing cars. 它的工作时洗车的。
-                + β. 作动词进行时的现在分词 (V-ing): 译成" 正在......"
+                    - His job is washing cars. 它的工作是洗车的。
+                + β. 作动词进行时的现在分词 (V-ing):  译成" 正在......"
                     - The girl is singing(完全不及物动词的进行时).
                     - The girl is bathing.
                     - He is washing(现在分词) the car. 他正在洗车。
@@ -285,11 +288,16 @@
                     - The man is tired(过去分词作adj当表语). 这人很累。
                 + β. 作及物动词的被动语态: 译成 "被......"而不视为形容词
                     - The man was [killed (为完全及物动词的被动语态)]. 这个男人被杀了。 
-    - b.    
-    - c.
-    - d.
-    - e.
-    - f.
+    - b. become (變成): become 可用任何名詞、adj 或可作形容詞的現在分詞或過去分詞(可譯成: "......的" 之類的分詞)作表語。
+    - c. turn (變成)
+    - d. get (變成)
+    - e. seem (似乎)
+    - f. 感官動詞: 感官動詞一共有 5 個: 一律譯為 "......起來"， 之後一律用 adj (或可作形容詞用的分詞)作表語。
+        + look (看起來) 
+        + sound (聽起來) 
+        + smell (看起來) 
+        + taste (尝(嘗)起來) 
+        + feel (感覺起來) 
 
 11. **不完全不及物动词的重要相关短语**
 
