@@ -185,13 +185,13 @@
     + sleep  vi．睡眠   vt．睡（觉）
       - sleep a sound sleep（睡了安稳的一觉）
 
-5.  **完全及物动词与完全不及物动词**
+5.  **完全及物动词(c.vt.) 与 完全不及物动词(c.vi.)**
     + a. 完全及物动词: 即加了宾语后，意思才很完全的动词。
         - He [killed (vt)] her. 他杀了她
     + b. 完全不及物动词: 即不需要加宾语，意思就很完全的动词
         - He [laughed (vi)]. 他笑了。
         
-6.  **完全及物动词出现的形态**
+6.  **完全及物动词(c.vt.)出现的形态**
     + a. 主语 + 及物动词 + 宾语
         - He wrote(vt) a book.
     + b. 主语 + be 动词 + 及物动词的现在分词 + 宾语
@@ -201,7 +201,7 @@
     + d. 主语 + be 动词 + being + 过去分词
         - A book(S) was being(现在分词) written(p.p.) by him. 有一本书正在被他撰写中。 
     
-7.  **完全不及物动词出现的形态**
+7.  **完全不及物动词(c.vi.)出现的形态**
      + a. 主语 + 不及物动词     
          - --> Something(S) happened(vi). 有事情发生了。 
      + b. 主语 + be 动词 + 不及物动词的现在分词:  本句型用于表示某动作正在进行的状态   
@@ -211,7 +211,7 @@
          - 注意1: 完全不及物动词，就是意思很完全的不及物动词。这个动词置于主语之后，可单独存在，之后不须加任何此类意思就很完全。
             + Something happened.
             + He died.
-         - 注意2: 但完全不及物动词之后，可接副词(adverb [简写 adv.]) 或副词对等于 (如介词短语，状语从句等)，以修饰该动词。
+         - 注意2: 但完全**不及物动词之后，可接副词(adverb [简写 adv.]) 或副词对等于 (如介词短语，状语从句等)，以修饰该动词**。
             + Something happened(vi) yesterday(adv).
             + He died [in an accident (介词短语)].
             + He left [because he did not want to see Mary again (状语从句)]
@@ -224,7 +224,7 @@
     + [My trouble(S)] is(i.vi.) [that I have no money(名词性从句)].
       
       
-9.  **不完全不及物动词的判断方法**
+9.  **不完全不及物动词(系动词)的判断方法**
     + 我______他。（主动）
     + 他被我______。（被动）
     + a. 先将become（变成）置于上列两空格中得知 (兹以 become 作示范)
@@ -242,8 +242,9 @@
         + He became [a good body(s.c)].
            
 
-10. **不完全不及物动词的种类及其表语的用法**
-    - a. be 动词 : be动词之后可用名词（含名词对等语如名词性从句、名词短语、动名词、不定式等）或形容词（含作形容词的现在分词、过去分词、介词短语、地方副词或地方副词短语等）作表语
+10. **不完全不及物动词(系动词)的种类及其表语的用法**
+    - a. be 动词 : be动词之后可用名词（含名词对等语如名词性从句、名词短语、动名词、不定式等）或形容词
+        （含作形容词的现在分词、过去分词、介词短语、地方副词或地方副词短语等）作表语
         + be 动词之后有 11 种表语
             - 1). 名词
                 + He is a great hero.
@@ -278,7 +279,7 @@
             - {注意: a).} be 动词之后的现在分词有 2 种词性:
                 + α. 作形容词 (adj):                表"进行状态"的现在分词，译成 "......的"
                     - The girl is charming(迷人的). 现在分词作形容词当表语。
-                    - His job is washing cars. 它的工作是洗车的。
+                    - His job is washing cars. 他的工作是洗车的。
                 + β. 作动词进行时的现在分词 (V-ing):  译成" 正在......"
                     - The girl is singing(完全不及物动词的进行时).
                     - The girl is bathing.
@@ -288,18 +289,69 @@
                     - The man is tired(过去分词作adj当表语). 这人很累。
                 + β. 作及物动词的被动语态: 译成 "被......"而不视为形容词
                     - The man was [killed (为完全及物动词的被动语态)]. 这个男人被杀了。 
+                    
     - b. become (變成): become 可用任何名詞、adj 或可作形容詞的現在分詞或過去分詞(可譯成: "......的" 之類的分詞)作表語。
-    - c. turn (變成)
-    - d. get (變成)
-    - e. seem (似乎)
+        + He became [angry (adj)].
+        + You will become [a good student (n.名词)] if you study hard.  如果你用功，就可可以成为好学生。
+        + She is becoming more and more [charming (adj)].
+        
+    - c. turn (變成): turn 通常只用 adj 作表语，而且所能使用的形容词多与颜色或情绪有关。
+        + His face turned [pale (adj)] when he heard the news.
+        + The leaves were turning [yellow (adj)].
+        
+    - d. get (變成): get 通常用表 "生气" 或 "激动" 的形容词作表语。 若用其他形容词时，宜用 become.
+        + He got mad.
+        + She became beautiful.
+        + Things have become good.
+        + {注意1:} 若 get 用于进行时的结构中，之后可接 adj 的比较级形态作表语。即: be getting more and more + 任何形容词
+            - She is getting more and more beautiful.
+            - Things are getting better and better.
+        + {注意2:} get/be + 过去分词p.p. (被动语态): 本句型表 "被......" 之意。 get 等于 be 动词，不可译成 "变成"。
+            - He got killed in the accident. = He was killed in the accident.
+            - If you are not careful, you will get/be hurt.
+            
+    - e. seem (似乎) = appear. : seem 之后用不定式短语作表语。
+        + He seems to know it. 
+        + 但在 seem to be + 名词/形容词结构中， to be 可省略，直接用名词或形容词作表语。
+            - He seems to be happy. = He seems happy.
+            - He seems to be a nice man. = He seems a nice man.
+    
     - f. 感官動詞: 感官動詞一共有 5 個: 一律譯為 "......起來"， 之後一律用 adj (或可作形容詞用的分詞)作表語。
-        + look (看起來) 
-        + sound (聽起來) 
-        + smell (看起來) 
-        + taste (尝(嘗)起來) 
-        + feel (感覺起來) 
-
+        + look (看起來)        --> It looks interesting.
+        + sound (聽起來)       --> His idea sounds good.
+        + smell (看起來)       --> The food smells good.
+        + taste (尝(嘗)起來)    --> The food tests delicious.
+        + feel (感覺起來)       --> I fell tired now.  我现在觉得很疲倦。
+        + {注意1:} **感官动词之后绝不可用名词作表语，若要与名词连用时**，需采用下列句型:
+            look/sound/smell/taste/feel + like(介词) + 名词 【like 为介词 ，译成 "像" 之后的名词为其宾语。】
+            - It sounds like [a good idea].
+            - That material feels like silk. 那质料摸起来像丝。
+            - The food tastes like fish.    这食物尝起来像鱼肉。
+        + {注意2:} 
+            - feel like + 名词: 感觉像......
+                + When Jane said she would marry me, I felt like a newborn [baby]
+            - fell like + 动名词: 想要......
+                + I feel like [taking 动名词] a walk today. = I would like to take a walk today.  我今天想散散步。
+        + {注意3:} fell，taste，smell 亦可当完全及物动词、可用名词作宾语。此时 feel、taste、smell的意思均有改变。
+                fell(摸)/taste(尝)/smell(闻) + 名词
+            - The doctor felt [my forehead (n.作宾语)] and said I had a fever.
+            - Do not taste [that food (n.作宾语)]; it has spoiled.  别尝那食物，它已经馊了。
+            - He smelled [something (n.作宾语)] burning. 他闻到有东西烧焦了。
+        + {注意4:} look 与介词连用时，可形成短语动词，视为及物动词。 如: 
+            - look into = investigate   vt.调查
+            - look over = examine       vt.检查
+            - look at = watch           vt.看
+            - **此时，要用 副词(adv) 修饰这些短语动词**
+                + He looked at me [happily (adv)].
+                + He looked int the case carefully. 他仔细地调查这个案子。
+                + {注意4-1:} 上列句中的副词经常会置于 look 与介词之间，而成:
+                    - He looked happily at me. 
+                    - He looked carefully into the case.
+                + {注意4-2:} look 之后又介词时，look 就不是感官动词，而与该介词形成短语动词(如 look into/ look at)，
+                    一定要用副词修饰，而非以形容词修饰。
+        
 11. **不完全不及物动词的重要相关短语**
+    
 
 12. **完全及物动词**
 
