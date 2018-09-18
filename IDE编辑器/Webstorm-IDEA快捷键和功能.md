@@ -38,7 +38,7 @@ Phpstorm/IDEA/Webstorm 快捷键操作:
   (3).在Settings -- Languages & Frameworks -- JavaScript -- libraries(库) -- 添加nodejs的核心模块. <br/>
 
 
-  11. 去掉文件窗口右边的竖线 ： Setting -- Editor -- Appearance -- show right margin(configured in code style options)
+  11. 去掉文件窗口右边的竖线 ： Setting -- Editor -- Appearance -- show hard wrap guide(configured in code style options)
 
   7. 更改默认的浏览器: Setting -- Tools -- Web Browsers
   
