@@ -1,6 +1,6 @@
 Phpstorm/IDEA/Webstorm 快捷键操作:
 
-  1. 改主题:  
+  1. 改主题:
    ```base
      settings -->输入appearance -->Appearance && Behavior--> Appearance -->Darcula(黑色外观); 然后自己在设置字体大小
    ```
@@ -8,28 +8,47 @@ Phpstorm/IDEA/Webstorm 快捷键操作:
   2. 配色:  file --> import setting -->导入下载的字体主题
     2-1.其他编辑器的配置: file --> setting --> keymap(快捷键映射) 可以快速更换其他编辑器的快捷键映射，比如Eclipse的快捷键
 
-  3. 更改配色字体提示颜色 
+  3. 更改配色字体提示颜色
   ```base
-    file --> settings --> Editors --> colors&fonts --> HTML --> 
+    file --> settings --> Editors --> colors&fonts --> HTML -->
     在下面黑框里点击你想设置的代码然后看到上面对应的部分(foreground)就可以设置了，
     如果不能设置上面的foreground,记得把下面的 use inherited attributed 前面的对号取消就可以了。
   ```
-  
-  13. Webstrom 中更改文档的默认字体: 
+
+  13. Webstrom 中更改文档的默认字体:
   ```base
-     Settings -> Editor -> Color Scheme -> General 中。 
+     Settings -> Editor -> Color Scheme -> General 中。
   ```
-  
+
   4.更改字符编码:
   ```base
     file --> settings --> Editor --> File Encodings
   ```
-  
-  6. 只修改编辑区的背景色，不改主题: 
+
+  6. 只修改编辑区的背景色，不改主题:
   ```base
      Settings -> Editor -> Color Scheme -> General -> Text -> Default text
   ```
-  
+
+  7. webStorm 下将 vue 的代码锁紧由 2 个空格改为 4 个空格
+  ```base
+     1. File -> Settings -> Editor -> Code Style -> Javascript， indent 都设置为 4.
+
+     2. Vue 项目下的 .eslintrc.js 中设置
+        rules: {
+             'no-console': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+             'no-debugger': process.env.NODE_ENV === 'production' ? 'error' : 'off',
+
+             // eslint 配置
+             'indent': 'off',
+             'vue/script-indent': [
+                 'error',
+                 4,
+                 { "baseIndent": 1 }
+             ]
+         },
+  ```
+
 
   5. 安装组件
   (1)用npm安装nodejs需要的模块组件: File -> Setting -> Plugins -> Browse repositories...  <br/>
@@ -41,12 +60,12 @@ Phpstorm/IDEA/Webstorm 快捷键操作:
   11. 去掉文件窗口右边的竖线 ： Setting -- Editor -- Appearance -- show hard wrap guide(configured in code style options)
 
   7. 更改默认的浏览器: Setting -- Tools -- Web Browsers
-  
-  8. 安装插件: 
+
+  8. 安装插件:
    ```base
       File -> Setting -> Plugins -> Browse repositories...
    ```
-    
+
   9. 有用的快捷键:
     (1) Ctrl + d : 在不选中的情况下是复制一行，选中需要的代码按住ctrl+d就是直接复制。<br/>
     (2) Ctrl + r : 调出查找对话框 <br/>
@@ -62,5 +81,5 @@ Phpstorm/IDEA/Webstorm 快捷键操作:
     (12) Ctrl+"+/-": 当前方法展开、折叠
     (13) 按2次 shift 键: 呼出全局搜索
     (14)
-    
+
   12 设置快捷键：File -> Settings -> IDE Settings -> Keymap -> 选择“选择” -> 然后“Copy”一份 -> 再个性化设置（自己习惯的）快捷键
